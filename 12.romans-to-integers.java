@@ -43,6 +43,17 @@ Constraints:
 s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
 It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 */
+//RUNTIME
+/*
+Runtime
+    Details
+    2ms
+    Beats 100.00% of users with Java
+Memory
+    Details
+    43.20MB
+    Beats 97.02% of users with Java
+*/
 public class Solution{
     public static void main(String[] args) {
         int ej1 = romanToInt("III");
