@@ -38,6 +38,7 @@ Memory
       40.44MB
       Beats 52.19%of users with Java
 */
+import java.util.*;
 class Solution {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
