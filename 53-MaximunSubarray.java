@@ -30,13 +30,13 @@ Constraints:
 //RUNTIME
 /*
 Runtime
-      Details
-      1ms
-      Beats 100.00%of users with Java
+   Details
+   1ms
+   Beats 100.00%of users with Java
 Memory
-      Details
-      59.23MB
-      Beats 57.32%of users with Java
+   Details
+   57.45MB
+   Beats 89.63%of users with Java
 */
 //Kadane's algorithm
 class Solution {
@@ -52,3 +52,4 @@ class Solution {
         return maxSum;
     }
 }
+
